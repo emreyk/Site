@@ -1,0 +1,51 @@
+﻿@using Proje.Entities
+@model EvernoteUser
+@{
+    ViewBag.Title = "ShowProfile";
+}
+
+<div class="container">
+
+<div class="row">
+    <h2>@ViewBag.Title</h2>
+    <hr />
+</div>
+
+
+    <div class="row">
+
+        <div class="col-md-2">
+            <img src="~/Images/@Model.ProfileImageFilename" />
+        </div>
+
+        <div class="col-md-8">
+            <h3>@(Model.Name+ " " +Model.Surname)</h3><br />
+
+            <h6><b>Username : </b>@Model.Username</h6>
+
+            <h6><b>Email : </b>@Model.Email</h6><br />
+        </div>
+
+        <div class="col-md-2 text-right">
+
+            <div class="btn-group">
+
+                <a class="btn dropdown-toggle btn-info" data-toggle="dropdown" href="#">
+
+                    <span class="glyphicon glyphicon-cog">&nbsp;</span>
+                  Düzenle
+                    <span class="icon-cog icon-white"></span><span class="caret"></span>
+                </a>
+
+                <ul class="dropdown-menu">
+
+                    <li><a href="@Url.Action("EditProfile")"><span class="glyphicon glyphicon-edit">&nbsp;</span>Degistir</a></li>
+
+                    <li><a href="@Url.Action("DeleteProfile") " onclick="return confirm('Eminmisiniz');"><span class="glyphicon glyphicon-trash">&nbsp;</span>Sil</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+

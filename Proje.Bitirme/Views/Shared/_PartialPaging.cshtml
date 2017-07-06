@@ -1,0 +1,47 @@
+﻿@*@@{
+    decimal count = ViewBag.TotalNoteCount;
+    int numberCount = 0;
+    int selectedPage = 0;
+
+    if (count > 12)
+    {
+        numberCount = (int)Math.Ceiling(count / 12);
+    }
+
+    if (Request.QueryString["page"] != null)
+    {
+        selectedPage = int.Parse(Request.QueryString["page"]);
+    }
+    else
+    {
+        selectedPage = 1;
+    }
+
+}
+
+<nav aria-label="Page navigation">
+    <ul class="pagination">
+        <li>
+            <a href="/Home/Index" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        @for (int i = 1; i <= numberCount; i++)
+        {
+            if (i == selectedPage)
+            {
+                <li><a href="/Home/Index?page=@(i)"><b>@(i)</b></a></li>
+            }
+            else
+            {
+                <li><a href="/Home/Index?page=@(i)">@(i)</a></li>
+            }
+        }
+        <li>
+            <a href="/Home/Index?page=@numberCount" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+*@
