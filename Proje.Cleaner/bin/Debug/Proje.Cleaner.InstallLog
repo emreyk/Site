@@ -1,0 +1,480 @@
+﻿Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Warning: The source BitirmeProjNoteCleaner is not registered on the local machine.
+Service BitirmeProjNoteCleaner is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Service BitirmeProjNoteCleaner has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Rolling back assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Restoring event log to previous state for source BitirmeProjNoteCleaner.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Warning: The source BitirmeProjNoteCleaner is not registered on the local machine.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Rolling back assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Restoring event log to previous state for source BitirmeProjNoteCleaner.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Warning: The source BitirmeProjNoteCleaner is not registered on the local machine.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner...
+Creating EventLog source BitirmeProjNoteCleaner in log Application...
+Rolling back assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Restoring event log to previous state for source BitirmeProjNoteCleaner.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner.
+Warning: The source BitirmeProjNoteCleaner is not registered on the local machine.
+Service BitirmeProjNoteCleaner is being removed from the system...
+Service BitirmeProjNoteCleaner was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+Service BitirmeProjNoteCleaner2 was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner2.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Warning: The source BitirmeProjNoteCleaner2 is not registered on the local machine.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+Service BitirmeProjNoteCleaner2 was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner2.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Rolling back assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Warning: The source BitirmeProjNoteCleaner2 is not registered on the local machine.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Warning: The source BitirmeProjNoteCleaner2 is not registered on the local machine.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+Service BitirmeProjNoteCleaner2 was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+Service BitirmeProjNoteCleaner2 was successfully removed from the system.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Uninstalling assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Removing EventLog source BitirmeProjNoteCleaner2.
+Service BitirmeProjNoteCleaner2 is being removed from the system...
+Service BitirmeProjNoteCleaner2 was successfully removed from the system.
+Attempt to stop service BitirmeProjNoteCleaner2.
+Installing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+Installing service BitirmeProjNoteCleaner2...
+Service BitirmeProjNoteCleaner2 has been successfully installed.
+Creating EventLog source BitirmeProjNoteCleaner2 in log Application...
+Committing assembly 'C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.InstallLog
+   assemblypath = C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe

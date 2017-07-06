@@ -1,0 +1,8 @@
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe.config
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.exe
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\bin\Debug\Proje.Cleaner.pdb
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\obj\Debug\Proje.Cleaner.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\obj\Debug\Proje.Cleaner.ProjectInstaller.resources
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\obj\Debug\Proje.Cleaner.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\obj\Debug\Proje.Cleaner.exe
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Cleaner\obj\Debug\Proje.Cleaner.pdb

@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\Proje.Entities.dll.config
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\Proje.Entities.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\Proje.Entities.pdb
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\obj\Debug\Proje.Entities.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\obj\Debug\Proje.Entities.pdb
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Entities\obj\Debug\Proje.Entities.csprojResolveAssemblyReference.cache

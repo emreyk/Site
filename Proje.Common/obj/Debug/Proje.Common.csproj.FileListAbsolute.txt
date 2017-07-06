@@ -1,0 +1,5 @@
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Common\bin\Debug\Proje.Common.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Common\bin\Debug\Proje.Common.pdb
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Common\obj\Debug\Proje.Common.dll
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Common\obj\Debug\Proje.Common.pdb
+C:\Users\Emre\Desktop\Projeler\Proje.Bitirme\Proje.Common\obj\Debug\Proje.Common.csprojResolveAssemblyReference.cache
